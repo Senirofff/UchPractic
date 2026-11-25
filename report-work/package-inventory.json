@@ -1,0 +1,70 @@
+{
+  "reference": "D:\\Download\\Шаблон отчета.docx",
+  "sha256": "bce5dd38304d72bbc2501de3b1fabd9f5e0514e9093930ff2a0805d92365adff",
+  "parts": {
+    "[Content_Types].xml": {
+      "size": 1627,
+      "sha256": "44f0b0ea716ed7b6416f9c4f09e97268770d2c8f91a490e9774bc54ae21bd322"
+    },
+    "_rels/.rels": {
+      "size": 590,
+      "sha256": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df"
+    },
+    "word/document.xml": {
+      "size": 34309,
+      "sha256": "ab86fb149676537dc3dd66568e389c36e4af4a8b449d69c62e4b29868a22e70c"
+    },
+    "word/_rels/document.xml.rels": {
+      "size": 1224,
+      "sha256": "fb1d6da48d931962ea133dbeefb07b637efaee61de47c0ee6b65c645ac1156e8"
+    },
+    "word/media/image1.png": {
+      "size": 978,
+      "sha256": "a1e9396c4eee1a4c85835e0bb46a0f3cf07cb73c02a5e885e48a438a733e9621"
+    },
+    "word/theme/theme1.xml": {
+      "size": 6850,
+      "sha256": "506455ae2e3a6f1c629b15b732ec89a77e67b015f5000af0b117d511c4f684e6"
+    },
+    "word/settings.xml": {
+      "size": 3512,
+      "sha256": "6646007822ee0f25d15b344d3d485ac0e8130371df2d5f5e14ba8ea6103f7c93"
+    },
+    "customXml/item1.xml": {
+      "size": 306,
+      "sha256": "6484d95a7eb59c4beac874cc1fae10b7f7f4cfb7caeb09dfc375ad3ac4ad6ba0"
+    },
+    "customXml/itemProps1.xml": {
+      "size": 341,
+      "sha256": "045ae43024223a6810233c08a025a46ea2ff88d98ec522fa23c50d5aef29b3e6"
+    },
+    "word/numbering.xml": {
+      "size": 7041,
+      "sha256": "9557f7312220120d1fbda4d8c83ed327abc231e1a005b17a92f7a79f8b203b10"
+    },
+    "word/styles.xml": {
+      "size": 34340,
+      "sha256": "cb9a24758fb064f20f6d21315ebd95f0088b3da9d21a44516285be654f6ada65"
+    },
+    "word/webSettings.xml": {
+      "size": 1069,
+      "sha256": "f2f6fe7679634963bf49bae65f941f41934de42ceeb3a806afac4bab92274853"
+    },
+    "word/fontTable.xml": {
+      "size": 2110,
+      "sha256": "89ca2566093ae63ff20ce1050e656e521c1a640cbe97dee1450ed405d1909054"
+    },
+    "docProps/core.xml": {
+      "size": 775,
+      "sha256": "7761befaccf3a5759d1c4b3ddf64618f3be0f13c86c725c9f9028bf5c7833cd6"
+    },
+    "docProps/app.xml": {
+      "size": 1013,
+      "sha256": "a5539b3bc360a91be02486d4d73b6a3cee6a6b9814680b595967bcb64048a629"
+    },
+    "customXml/_rels/item1.xml.rels": {
+      "size": 296,
+      "sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# Contract for laboratory report
+
+Reference: D:/Download/Шаблон отчета.docx. Read-only retained template. Reference render: template.pdf and template-render/page-1.png through page-4.png. Package hashes and inventory: package-inventory.json generated before building.
+
+Page system: one section, portrait, 210.007 by 297.004 mm, top/bottom 20.003 mm, left 30.004 mm, right 14.993 mm, header/footer 12.488 mm. No headers or footers. Preserve sectPr exactly.
+
+Typography: Normal Times New Roman 14 pt, justified, first line 12.506 mm, 1.5 lines, after 0. Heading 1 is 16 pt centered, zero first line, keep with next. Caption 12 pt, single lines, zero first line, after 10 pt. Figure role is source style Фотография. Preserve styles, theme, numbering and all unedited package parts byte-for-byte. Body headings reuse Normal with bold; no added design system.
+
+Components: preserve title-page institutional table and paragraph layout. Editable slots in word/document.xml body paragraphs (zero-based): p6 practice index, p10 module, p17 student, p20 group, p28 supervisor, p31 date. Values come from the second user-provided report; date remains its 23 November 2026. Title paragraphs 0-31 retain source placement and typography. Remaining paragraphs p32 onward are editable report content: replace placeholder contents and sample labs with one lab, its contents links, goal, numbered work steps, inline figures, Word SEQ Рисунок captions and conclusion. Only first laboratory requested; remove all second laboratory placeholders.
+
+Content flow: page1 title, page2 contents, page3 aim and initialization, page4 App data, page5 ProductCard props, page6 state and counter, page7 CSS design, page8 mobile adaptation, page9 tests and conclusion. Clone source paragraph/figure/caption roles to extend body. Page breaks are allowed for coherent step descriptions and adjacent figures. Screenshots are actual local running application captures; code figures show actual source files rendered as readable listings. Source images have no decorative picture effects; preserving template placeholder shadow is unnecessary since placeholder itself is replaced.
+
+Preserve-only: all original package parts except word/document.xml, word/_rels/document.xml.rels, [Content_Types].xml and word/settings.xml. Relationships are append-only for added images. Existing unused placeholder media retained. No invented instructor data or copied Figma content. Fidelity gates: verify source hash, section XML equality, unchanged part hashes, render all final pages with native Word after canonical renderer failed because Windows bundle lacks LibreOffice, inspect every final page, verify captions and content links.

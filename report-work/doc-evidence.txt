@@ -1,0 +1,386 @@
+
+FILE Шаблон отчета.docx
+SECTION 0 [('page_width', '7560310'), ('page_height', '10692130'), ('top_margin', '720090'), ('bottom_margin', '720090'), ('left_margin', '1080135'), ('right_margin', '539750'), ('header_distance', '449580'), ('footer_distance', '449580')]
+0 Normal '' align None size []
+1 Normal '' align None size []
+2 Normal 'ОТЧЕТ' align CENTER (1) size [(None, None, True)]
+3 Normal '' align None size []
+4 Normal 'по учебной практике' align CENTER (1) size [(None, None, None)]
+5 Normal '' align LEFT (0) size []
+6 Normal 'УП 01.01 «Учебная практика»' align None size [(None, None, None), (None, None, None)]
+7 Normal 'индекс по УП и наименование практики' align CENTER (1) size [(None, 12.0, None)]
+8 Normal '' align CENTER (1) size []
+9 Normal '' align LEFT (0) size []
+10 Normal 'Профессионального модуля ПМ.01 «Разработка модулей программного обеспечения для компьютерных систем»' align None size [(None, None, None), (None, None, None)]
+11 Normal 'индекс по УП и наименование профессионального модуля' align CENTER (1) size [(None, 12.0, None)]
+12 Normal '' align CENTER (1) size []
+13 Normal '' align LEFT (0) size []
+14 Normal 'Специальность 09.02.07 «Информационные системы и программирование»' align LEFT (0) size [(None, None, None)]
+15 Normal 'код и наименование специальности' align CENTER (1) size [(None, 12.0, None)]
+16 Normal '' align None size []
+17 Normal 'Студент       __________________________________________' align None size [(None, None, None)]
+18 Normal '(фамилия, имя, отчество)' align CENTER (1) size [(None, 12.0, None)]
+19 Normal '' align None size []
+20 Normal 'Группа\t________________' align None size [(None, None, None), (None, None, None)]
+21 Normal '' align None size []
+22 Normal '' align None size []
+23 Normal '' align None size []
+24 Normal '' align None size []
+25 Normal '' align None size []
+26 Normal 'Руководитель по практической подготовке от техникума' align None size [(None, None, None)]
+27 Normal '' align None size []
+28 Normal 'Осипян Лусине Геннадьевна' align None size [(None, None, None)]
+29 Normal '(фамилия, имя, отчество)' align CENTER (1) size [(None, 12.0, None)]
+30 Normal ' ' align RIGHT (2) size [(None, None, None)]
+31 Normal '«____» _________ 2024 года' align RIGHT (2) size [(None, None, None), (None, None, None)]
+32 Normal '' align None size []
+33 Normal '' align None size []
+34 Normal '' align None size []
+35 Normal '' align None size []
+36 Normal '' align None size []
+37 Normal '' align None size []
+38 Normal '' align None size []
+39 Normal '' align None size []
+40 Normal 'СОДЕРЖАНИЕ' align CENTER (1) size [(None, 16.0, None)]
+41 toc 1 'Лабораторная работа №1 «Название»\t3' align None size [(None, None, True), (None, None, True)]
+42 toc 1 'Лабораторная работа №2 «Название»\t4' align None size []
+43 Normal '' align None size [(None, None, True)]
+44 Normal '' align None size [(None, None, True)]
+45 Heading 1 'Лабораторная работа №1 «Название»' align None size [(None, None, None), (None, None, None)]
+46 Normal 'Цель работы: Кратко описать поставленную задачу, что необходимо для нее изучить и чему необходимо научиться, чтобы выполнить эту задачу' align None size [(None, None, None), (None, None, None)]
+47 List Paragraph 'Пункт первый' align None size [(None, None, None)]
+48 Normal 'Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание' align None size [(None, None, None)]
+49 Фотография '' align None size [(None, None, None)]
+50 Caption 'Рисунок  - Описание рисунка' align CENTER (1) size [(None, None, None), (None, None, None)]
+51 Normal 'Вывод: Кратко описать что выполнили из задачи, что изучили для нее и чему научились, выполняя эту задачу' align None size [(None, None, None), (None, None, None)]
+52 Normal '' align LEFT (0) size [(None, None, None)]
+53 Heading 1 'Лабораторная работа №2 «Название»' align None size [(None, None, None)]
+54 Normal 'Цель работы: Кратко описать поставленную задачу, что необходимо для нее изучить и чему необходимо научиться, чтобы выполнить эту задачу' align None size [(None, None, None), (None, None, None)]
+55 List Paragraph 'Пункт первый' align None size [(None, None, None)]
+56 Normal 'Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание' align None size [(None, None, None)]
+57 Фотография '' align None size [(None, None, None)]
+58 Caption 'Рисунок  - Описание рисунка' align CENTER (1) size [(None, None, None), (None, None, None)]
+59 Normal 'Вывод: Кратко описать что выполнили из задачи, что изучили для нее и чему научились, выполняя эту задачу' align None size [(None, None, None), (None, None, None)]
+60 Normal '' align None size []
+TABLE [['МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ'], ['федеральное государственное бюджетное образовательное учреждение высшего образования «Российский экономический университет имени Г.В. Плеханова»\nМосковский приборостроительный техникум\n\n']]
+STYLE Normal <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:default="1" w:styleId="Normal">
+  <w:name w:val="Normal"/>
+  <w:qFormat/>
+  <w:rsid w:val="00B039AF"/>
+  <w:pPr>
+    <w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+    <w:ind w:firstLine="709"/>
+    <w:jc w:val="both"/>
+  </w:pPr>
+  <w:rPr>
+    <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+    <w:sz w:val="28"/>
+    <w:szCs w:val="24"/>
+    <w:lang w:eastAsia="ru-RU"/>
+  </w:rPr>
+</w:style>
+
+STYLE Heading 1 <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="Heading1">
+  <w:name w:val="heading 1"/>
+  <w:basedOn w:val="Normal"/>
+  <w:next w:val="Normal"/>
+  <w:link w:val="Heading1Char"/>
+  <w:uiPriority w:val="9"/>
+  <w:qFormat/>
+  <w:rsid w:val="00CA0CE1"/>
+  <w:pPr>
+    <w:keepNext/>
+    <w:keepLines/>
+    <w:ind w:firstLine="0"/>
+    <w:jc w:val="center"/>
+    <w:outlineLvl w:val="0"/>
+  </w:pPr>
+  <w:rPr>
+    <w:rFonts w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+    <w:sz w:val="32"/>
+    <w:szCs w:val="32"/>
+  </w:rPr>
+</w:style>
+
+STYLE Heading 2 ABSENT
+STYLE Caption <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="Caption">
+  <w:name w:val="caption"/>
+  <w:basedOn w:val="Normal"/>
+  <w:next w:val="Normal"/>
+  <w:uiPriority w:val="35"/>
+  <w:unhideWhenUsed/>
+  <w:qFormat/>
+  <w:rsid w:val="00A73968"/>
+  <w:pPr>
+    <w:spacing w:after="200" w:line="240" w:lineRule="auto"/>
+    <w:ind w:firstLine="0"/>
+  </w:pPr>
+  <w:rPr>
+    <w:iCs/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="18"/>
+  </w:rPr>
+</w:style>
+
+STYLE Title ABSENT
+
+FILE П-8-24 УП 01.02 Баранов Д.А.docx
+SECTION 0 [('page_width', '7560310'), ('page_height', '10692130'), ('top_margin', '360045'), ('bottom_margin', '720090'), ('left_margin', '1080135'), ('right_margin', '448945'), ('header_distance', '449580'), ('footer_distance', '449580')]
+0 Normal '' align None size []
+1 Normal '' align JUSTIFY (3) size []
+2 Normal '' align JUSTIFY (3) size []
+3 Normal 'ОТЧЕТ' align CENTER (1) size [('Times New Roman', 14.0, True)]
+4 Normal '' align JUSTIFY (3) size []
+5 Normal 'по учебной практике' align CENTER (1) size [('Times New Roman', 14.0, None)]
+6 Normal '' align None size []
+7 Normal 'УП 01.02 «Учебная практика»\t' align None size [('Times New Roman', 14.0, None), ('Times New Roman', 14.0, None)]
+8 Normal 'индекс по УП и наименование практики' align CENTER (1) size [('Times New Roman', 12.0, None)]
+9 Normal '' align CENTER (1) size []
+10 Normal '' align None size []
+11 Normal 'Профессионального модуля ПМ.01 «Разработка модулей программного обеспечения компьютерных систем»' align None size [('Times New Roman', 14.0, None), ('Times New Roman', 14.0, None)]
+12 Normal '\t' align None size [('Times New Roman', 14.0, None)]
+13 Normal 'индекс по УП и наименование профессионального модуля' align CENTER (1) size [('Times New Roman', 12.0, None)]
+14 Normal '' align CENTER (1) size []
+15 Normal '' align None size []
+16 Normal 'Специальность 09.02.07 «Информационные системы и программирование»' align None size [('Times New Roman', 14.0, None), ('Times New Roman', 14.0, None)]
+17 Normal '\t' align JUSTIFY (3) size [('Times New Roman', 14.0, None)]
+18 Normal 'код и наименование специальности' align CENTER (1) size [('Times New Roman', 12.0, None)]
+19 Normal '' align JUSTIFY (3) size []
+20 Normal 'Студент:       Баранов Денис Алексеевич' align JUSTIFY (3) size [('Times New Roman', 14.0, None), ('Times New Roman', 14.0, None)]
+21 Normal '                              фамилия, имя, отчество' align JUSTIFY (3) size [('Times New Roman', 12.0, None)]
+22 Normal '' align JUSTIFY (3) size []
+23 Normal 'Группа:\tП-8-24' align JUSTIFY (3) size [('Times New Roman', 14.0, None), ('Times New Roman', 14.0, None)]
+24 Normal '' align JUSTIFY (3) size []
+25 Normal '' align JUSTIFY (3) size []
+26 Normal '' align JUSTIFY (3) size []
+27 Normal '' align JUSTIFY (3) size []
+28 Normal '' align JUSTIFY (3) size []
+29 Normal 'Руководитель по практической подготовке от техникума:' align JUSTIFY (3) size [('Times New Roman', 14.0, None)]
+30 Normal '' align JUSTIFY (3) size []
+31 Normal '                       Дымская Анна Юрьевна' align JUSTIFY (3) size [('Times New Roman', 14.0, None), ('Times New Roman', 14.0, None)]
+32 Normal '                               фамилия, имя, отчество' align JUSTIFY (3) size [('Times New Roman', 12.0, None)]
+33 Normal ' "23" ноября 2026 года' align RIGHT (2) size [('Times New Roman', 14.0, None), ('Times New Roman', 14.0, None)]
+34 Normal '' align None size []
+35 Normal '' align JUSTIFY (3) size []
+36 Normal '' align JUSTIFY (3) size []
+37 Normal 'СОДЕРЖАНИЕ' align CENTER (1) size [('Times New Roman', 14.0, True)]
+38 Normal '' align CENTER (1) size []
+39 Normal 'Лабораторная работа № 1 "Репликация готового макета в Figma"\t3' align None size [('Times New Roman', 14.0, None), (None, None, None)]
+40 Normal 'Лабораторная работа № 2 "Разработка уникального макета в Figma"\t6' align None size [('Times New Roman', 14.0, None), (None, None, None)]
+41 Normal 'Лабораторная работа № 1 "Репликация готового макета в Figma"' align CENTER (1) size [('Times New Roman', 14.0, True)]
+42 Normal 'Цель работы:' align None size [('Times New Roman', 14.0, True), ('Times New Roman', 14.0, True)]
+43 Normal 'Цель работы заключалась в воссоздании основных блоков главной страницы Vip Santeh в Figma и их адаптации для настольных и мобильных устройств.' align None size [('Times New Roman', 14.0, None)]
+44 Normal 'Ход работы: ' align None size [('Times New Roman', 14.0, True)]
+45 Normal 'Была изучена структура исходного макета Vip Santeh 1.2. Фреймы desktop и mob были скопированы сочетанием клавиш Ctrl+C и вставлены на страницу "Практическая работа №1" сочетанием Ctrl+V. Изображения, иконки и слои остались редактируемыми. Для итогового макета были отобраны и сгруппированы основные блоки.' align JUSTIFY (3) size [('Times New Roman', 14.0, None)]
+46 Normal 'Из исходных фреймов были перенесены логотип, меню, заголовок, фоновое изображение и кнопка. Первый экран размещён под шапкой. Заголовок заменён на "Водоснабжение и отопление в Москве" и оформлен шрифтом Inter. Для кнопки выбран зелёный цвет.' align JUSTIFY (3) size [('Times New Roman', 14.0, None)]
+47 Normal '' align CENTER (1) size [(None, None, None)]
+48 Название объекта1 'Рисунок  - Шапка и первый экран' align CENTER (1) size [(None, None, None), (None, None, None)]
+49 Normal 'Из исходного макета были перенесены заголовок, изображение для видео, значок воспроизведения и кнопка. Блок размещён под первым экраном. Для фона выбран светло-бежевый цвет, а для кнопки выбран зелёный.' align None size [('Times New Roman', 14.0, None)]
+50 Normal '' align CENTER (1) size [(None, None, None)]
+51 Название объекта1 'Рисунок  - Блок о компании с видео' align CENTER (1) size [(None, None, None), (None, None, None)]
+52 Название объекта1 'Из исходных фреймов были перенесены заголовок, нумерация, графические элементы и текст преимуществ. В версии Desktop пункты размещены в два столбца, а в версии Mobile все пункты расположены в одном столбце. Светло-серые элементы заменены бежевыми.' align None size [(None, 14.0, None)]
+53 Normal '' align CENTER (1) size [(None, None, None)]
+54 Название объекта1 'Рисунок  - Блок преимуществ' align CENTER (1) size [(None, None, None), (None, None, None)]
+55 Normal 'Были перенесены заголовок, контактные данные и иконки телефона, почты и сайта. Контактный блок размещён перед подвалом. В версии Desktop карточки расположены в одном ряду и имеют бежевый фон. В версии Mobile контакты оформлены вертикальным списком.' align None size [('Times New Roman', 14.0, None)]
+56 Normal '' align CENTER (1) size [(None, None, None)]
+57 Название объекта1 'Рисунок  - Контактный блок' align CENTER (1) size [(None, None, None), (None, None, None)]
+58 Normal 'Из исходного макета были перенесены плашка подвала, подпись и значки социальных сетей. Элементы подвала объединены с контактами в группу "Низ". Подвал размещён в конце обеих версий. Тёмно-синий фон заменён тёмно-коричневым.' align None size [('Times New Roman', 14.0, None)]
+59 Normal '' align CENTER (1) size [(None, None, None)]
+60 Название объекта1 'Рисунок  - Подвал страницы.' align CENTER (1) size [(None, None, None), (None, None, None)]
+61 Название объекта1 'Вывод: в результате работы на странице "Практическая работа №1" были подготовлены два редактируемых фрейма. Ширина версии Desktop составляет 1440 пикселей, а ширина версии Mobile составляет 375 пикселей. Итоговые версии представлены на рисунке' align None size [(None, 14.0, True), (None, 14.0, True)]
+62 Normal 'Лабораторная работа № 2 "Разработка уникального макета в Figma"' align CENTER (1) size [('Times New Roman', 14.0, True)]
+63 RallyReportBody 'Цель работы:' align JUSTIFY (3) size [(None, None, True)]
+64 RallyReportBody 'Цель лабораторной работы - разработать уникальный дизайн-макет одностраничного сайта в Figma и адаптировать его для настольного компьютера, планшета и смартфона. Темой проекта выбран высший класс мирового ралли WRC Rally1. Сайт знакомит посетителя с особенностями класса, автомобилями, типами дорожного покрытия и официальными ресурсами для просмотра соревнований.' align JUSTIFY (3) size [(None, None, None)]
+65 RallyReportBody 'Ход работы:' align JUSTIFY (3) size [(None, None, True)]
+66 RallyReportBody 'Работа выполнена в существующем файле Figma на странице "Практическая работа №2". Тематический контент привязан к сезону 2025 года, чтобы не смешивать автомобили и технические сведения разных периодов.' align JUSTIFY (3) size [(None, None, None), (None, None, None)]
+67 RallyReportBody 'Основная часть включает первый экран, описание класса с характеристиками, автомобили, дорожные покрытия, просмотр соревнований и контактный блок. Таким образом, требование о наличии не менее трёх-четырёх смысловых блоков выполнено.' align JUSTIFY (3) size [(None, None, None)]
+68 RallyReportBody 'Сначала определён единый визуальный язык проекта. Для основного фона выбран почти чёрный цвет #101217. Для чередующихся секций и карточек используется #1B1F27. Разделение близких тёмных оттенков позволяет отличать смысловые зоны без большого количества рамок и декоративных линий.' align JUSTIFY (3) size [(None, None, None)]
+69 RallyReportBody 'Красный #F1373C используется для кнопок, номеров разделов и контактной секции. Основной текст имеет цвет #F5F5F2, второстепенные подписи - #AEB5C2. Дополнительный цвет #303640 предусмотрен в палитре для границ. Акцент повторяется на всех устройствах и связывает различные блоки в единый проект.' align JUSTIFY (3) size [(None, None, None)]
+70 Normal '' align CENTER (1) size [(None, None, None)]
+71 Название объекта1 'Рисунок  - Палитра, подписи цветов и основной компонент кнопки' align CENTER (1) size [(None, None, None), (None, None, None)]
+72 RallyReportBody 'В проекте используется шрифт Inter в начертаниях Regular и Bold. Единая гарнитура поддерживает визуальное единство сайта, а контраст начертаний отделяет заголовки и действия от поясняющего текста. Текстовые объекты сохранены в редактируемом виде.' align JUSTIFY (3) size [(None, None, None), (None, None, None)]
+73 RallyReportBody 'Крупный заголовок первого экрана имеет размер 64 px на Desktop, 56 px на Tablet и 40 px на Mobile. Основные заголовки смысловых блоков уменьшены с 40 до 30 px на смартфоне. Для основного описания используется размер 18 px, для карточек покрытий - 16 px, для служебных подписей - 12-14 px. Межстрочный интервал задан относительно размера шрифта и составляет 140 процентов.' align JUSTIFY (3) size [(None, None, None)]
+74 RallyReportBody 'Дополнительно созданы локальные текстовые стили Inter 14, 18, 24, 40 и 64. Короткие рубрики выделены красным цветом и нумерацией. Заголовок, пояснение, кнопка и фотография читаются последовательно, а не конкурируют между собой.' align JUSTIFY (3) size [(None, None, None)]
+75 Normal '' align CENTER (1) size [(None, None, None)]
+76 Название объекта1 'Рисунок  - Иерархия текста на первом экране Desktop' align CENTER (1) size [(None, None, None), (None, None, None)]
+77 RallyReportBody 'Для каждой версии создан самостоятельный фрейм. Ширина Desktop составляет 1440 px, Tablet - 768 px, Mobile - 375 px. Во фреймах настроены колоночные сетки: соответственно 12, 8 и 4 колонки. Межколоночные промежутки составляют 24 px на Desktop и Tablet и 16 px на Mobile. Сетки сохранены в файле и могут включаться при редактировании.' align JUSTIFY (3) size [(None, None, None)]
+78 RallyReportBody 'Главные фреймы и смысловые секции используют вертикальный Auto Layout. Горизонтальные ряды применяются для шапки, технических показателей, карточек автомобилей на Desktop и карточек покрытий на Desktop и Tablet. Высота секций автоматически зависит от содержимого. Для шапки настроены горизонтальные поля, вертикальные отступы 24 px и распределение элементов по ширине.' align JUSTIFY (3) size [(None, None, None)]
+79 RallyReportBody 'После первоначального построения проверены режимы размеров по основной и поперечной осям. Для вертикальных контейнеров высота зависит от содержимого, а ширина фиксируется. Для горизонтальных рядов фиксируется ширина и автоматически рассчитывается необходимая высота. Это исправило перекрытия соседних секций при переносе текста.' align JUSTIFY (3) size [(None, None, None)]
+80 Normal '' align CENTER (1) size [(None, None, None)]
+81 Название объекта1 'Рисунок  - Шапка Desktop с выделенным фреймом и настройками Auto Layout' align CENTER (1) size [(None, None, None), (None, None, None)]
+82 RallyReportBody 'В начале страницы размещена шапка "01 Header". Слева находится текстовый логотип RALLY1. Точка в конце надписи является частью выбранного графического решения. Белая жирная надпись хорошо различима на тёмном фоне.' align JUSTIFY (3) size [(None, None, None)]
+83 RallyReportBody 'В настольной версии в центральной части добавлены пункты "О классе", "Машины", "Покрытия" и "Смотреть". Они заранее обозначают структуру одностраничного сайта. Справа размещена красная кнопка "К трансляциям". Шапка помогает сразу понять тематику страницы и показывает главное действие.' align JUSTIFY (3) size [(None, None, None)]
+84 RallyReportBody 'В планшетной версии меню сокращено до основных пунктов, чтобы освободить место для кнопки. На смартфоне используется компактная кнопка "Меню" с символом раскрытия. Это представление закрытого состояния меню в дизайн-макете; отдельный экран раскрытого мобильного меню в данной работе не создавался.' align JUSTIFY (3) size [(None, None, None)]
+85 RallyReportBody 'Элементы шапки объединены горизонтальным Auto Layout с выравниванием по центру. Благодаря этому логотип, пункты навигации и кнопка находятся на одной горизонтальной оси.' align JUSTIFY (3) size [(None, None, None)]
+86 Normal '' align CENTER (1) size [(None, None, None)]
+87 Название объекта1 'Рисунок  - Логотип, навигационные пункты и кнопка в шапке Desktop' align CENTER (1) size [(None, None, None), (None, None, None)]
+88 RallyReportBody 'Под шапкой создан блок "02 Hero". Он начинается с рубрики "WRC / СЕЗОН 2025". Далее размещён заголовок "НА ПРЕДЕЛЕ. НА ЛЮБОЙ ДОРОГЕ.", который разбит на три строки. Крупный текст подчёркивает спортивный характер проекта.' align JUSTIFY (3) size [(None, None, None)]
+89 RallyReportBody 'В левой колонке Desktop добавлены краткое описание сайта и красная кнопка "Узнать о классе". Правая колонка отведена фотографии Toyota GR Yaris Rally1 на гравийной трассе. Фотография добавлена как растровое заполнение отдельного редактируемого слоя. На изображении хорошо видны автомобиль, дорожное покрытие и пыль, поэтому оно сразу поддерживает выбранную тему.' align JUSTIFY (3) size [(None, None, None)]
+90 RallyReportBody 'Для Desktop ширина текстовой части составляет 560 px, ширина фотографии - 720 px, промежуток между ними - 32 px. Под композицией размещена подпись события и источник фотографии TOYOTA GAZOO Racing. Сам автомобиль не заменён абстрактной иллюстрацией.' align JUSTIFY (3) size [(None, None, None)]
+91 RallyReportBody 'В прототипе для кнопки "Узнать о классе" настроен переход с прокруткой к следующему информационному разделу. Такая связь поддерживает последовательное знакомство с содержанием страницы.' align JUSTIFY (3) size [(None, None, None)]
+92 Normal '' align CENTER (1) size [(None, None, None)]
+93 Название объекта1 'Рисунок  - Заголовок, описание, кнопка действия и фотография Rally1' align CENTER (1) size [(None, None, None), (None, None, None)]
+94 RallyReportBody 'Следующим добавлен блок "03 О классе" на более светлом тёмном фоне. Цветовая смена помогает заметить переход от эмоционального первого экрана к объяснению. Раздел начинается с номера 01 и рубрики "ЧТО ТАКОЕ RALLY1".' align JUSTIFY (3) size [(None, None, None)]
+95 RallyReportBody 'Заголовок "Высший класс. Одна цель - лучшее время." поясняет содержание раздела. Под ним размещён текст о совместной работе пилота и штурмана, спецучастках, закрытых дорогах и суммарном времени. Пояснение рассчитано на посетителя, который только знакомится с ралли.' align JUSTIFY (3) size [(None, None, None)]
+96 RallyReportBody 'Ниже добавлены три карточки: "1,6 л / Турбодвигатель", "4WD / Полный привод" и "5 / Ступеней КПП". Значение в каждой карточке выделено крупным жирным шрифтом, а подпись выполнена меньшим размером и приглушённым цветом. В Desktop и Tablet карточки расположены в ряд; в Mobile они переходят в вертикальный список.' align JUSTIFY (3) size [(None, None, None)]
+97 RallyReportBody 'Технические значения относятся к GR Yaris Rally1 сезона 2025. Под карточками оставлена подпись источника. В текст не добавлялись характеристики гибридного поколения в качестве параметров автомобиля 2025 года.' align JUSTIFY (3) size [(None, None, None)]
+98 Normal '' align CENTER (1) size [(None, None, None)]
+99 Название объекта1 'Рисунок  - Информационный раздел с тремя техническими показателями' align CENTER (1) size [(None, None, None), (None, None, None)]
+100 RallyReportBody 'В блоке "04 Машины" размещена рубрика "02 / ТЕХНИКА", заголовок "Три характера Rally1" и короткое вступление. Основное содержимое представлено тремя карточками: TOYOTA GR Yaris Rally1, HYUNDAI i20 N Rally1 и M-SPORT FORD Puma Rally1.' align JUSTIFY (3) size [(None, None, None)]
+101 RallyReportBody 'Каждая карточка включает фотографию автомобиля, номер, обозначение класса, название команды или марки и модель. Одинаковый порядок элементов облегчает сравнение. В Desktop карточки образуют один горизонтальный ряд с промежутками 24 px.' align JUSTIFY (3) size [(None, None, None)]
+102 RallyReportBody 'Для Toyota использована фотография на трассе, для Hyundai и Ford - изображения автомобилей в представлении сезона 2025. Все три изображения загружены в Figma и сохранены внутри соответствующих слоёв заполнения.' align JUSTIFY (3) size [(None, None, None)]
+103 RallyReportBody 'Карточки являются экземплярами мастер-компонентов. Поэтому структура каждой модели остаётся связанной с исходным компонентом, а сами карточки можно дальше редактировать средствами Figma.' align JUSTIFY (3) size [(None, None, None)]
+104 Normal '' align CENTER (1) size [(None, None, None)]
+105 Название объекта1 'Рисунок  - Три карточки автомобилей с проверенными изображениями' align CENTER (1) size [(None, None, None), (None, None, None)]
+106 RallyReportBody 'Для повторяющихся элементов создана область UI Kit. В ней находятся компонент Button / Primary и три компонента карточек автомобилей. Фиолетовое обозначение в дереве слоёв позволяет отличить мастер-компонент от обычного фрейма.' align JUSTIFY (3) size [(None, None, None)]
+107 RallyReportBody 'Кнопка имеет горизонтальный Auto Layout, внутренние поля 24 px по горизонтали и 16 px по вертикали. В макетах используются её экземпляры с разными подписями: действие первого экрана, переход к трансляциям и компактное меню. Это сохраняет общий цвет, шрифт и характер отступов.' align JUSTIFY (3) size [(None, None, None)]
+108 RallyReportBody 'Мастер-карточка имеет исходную ширину 416 px. Внутри последовательно расположены изображение и контейнер описания. Для описания применены внутренние поля 24 px и промежутки 8 px. Между изображением и описанием установлен промежуток 16 px.' align JUSTIFY (3) size [(None, None, None)]
+109 RallyReportBody 'При проверке адаптации обнаружено, что внутренние слои карточки могут сохранять исходную ширину. Для них настроено растяжение по ширине контейнера. Затем повторно проверены экземпляры на планшете и смартфоне. Изображение и описание больше не выходят за границы карточки.' align JUSTIFY (3) size [(None, None, None)]
+110 Normal '' align CENTER (1) size [(None, None, None)]
+111 Название объекта1 'Рисунок  - Выделенный мастер-компонент карточки и его настройки' align CENTER (1) size [(None, None, None), (None, None, None)]
+112 RallyReportBody 'Далее создан блок "05 Покрытия" с рубрикой "03 / УСЛОВИЯ" и заголовком "Один класс. Разные дороги.". Его назначение - показать, что одно и то же спортивное направление требует разных решений в зависимости от трассы.' align JUSTIFY (3) size [(None, None, None)]
+113 RallyReportBody 'Раздел состоит из трёх карточек: "ГРАВИЙ", "АСФАЛЬТ" и "СНЕГ". Каждая карточка содержит красный номер, название покрытия и короткое пояснение. Для гравия описаны пыль, прыжки и необходимость контроля заноса; для асфальта - торможение, траектория и сцепление; для снега - лёд, сугробы и шипованные шины.' align JUSTIFY (3) size [(None, None, None)]
+114 RallyReportBody 'Карточки выполнены на основном тёмном фоне, а сама секция - на фоне панели. В Desktop и Tablet элементы размещены в три колонки. Для горизонтального ряда настроено растяжение карточек по высоте, чтобы нижняя граница выглядела аккуратно при различной длине текста.' align JUSTIFY (3) size [(None, None, None)]
+115 RallyReportBody 'На смартфоне тот же материал представлен вертикальным списком. Порядок карточек и нумерация сохранены, поэтому посетитель получает одинаковое содержание на любом из трёх устройств.' align JUSTIFY (3) size [(None, None, None)]
+116 Normal '' align CENTER (1) size [(None, None, None)]
+117 Название объекта1 'Рисунок  - Раздел гравия, асфальта и снега' align CENTER (1) size [(None, None, None), (None, None, None)]
+118 RallyReportBody 'После объяснения техники и условий добавлен блок "06 Смотреть ралли". Он обозначен рубрикой "04 / БЛИЖЕ К ГОНКЕ" и заголовком "Почувствуй каждый поворот". Здесь посетителю предлагается следующий шаг после знакомства с классом.' align JUSTIFY (3) size [(None, None, None)]
+119 RallyReportBody 'В пояснении упомянуты трансляции, онборды, календарь и официальные результаты. Под текстом размещена основная кнопка "Открыть Rally.TV". В прототипе для экземпляра кнопки задано открытие https://www.rally.tv/.' align JUSTIFY (3) size [(None, None, None)]
+120 RallyReportBody 'Дополнительная строка перечисляет Rally.TV, wrc.com и официальные результаты. Блок остаётся достаточно коротким, чтобы основное действие не терялось среди второстепенных деталей. Цвет кнопки и её внутренние поля соответствуют общему компоненту.' align JUSTIFY (3) size [(None, None, None)]
+121 RallyReportBody 'В адаптивных версиях текст переносится по ширине контейнера, а кнопка сохраняет удобную отдельную позицию под описанием. На мобильном экране элементы читаются последовательно сверху вниз.' align JUSTIFY (3) size [(None, None, None)]
+122 Normal '' align CENTER (1) size [(None, None, None)]
+123 Название объекта1 'Рисунок  - Призыв к просмотру и кнопка Rally.TV' align CENTER (1) size [(None, None, None), (None, None, None)]
+124 RallyReportBody 'Перед подвалом добавлен блок "07 Контакты". В отличие от остальных секций он целиком залит акцентным красным цветом. Такая смена фона помогает выделить завершение содержательной части и возможность обратной связи.' align JUSTIFY (3) size [(None, None, None)]
+125 RallyReportBody 'В блоке размещены заголовок "ЕСТЬ О ЧЁМ ПОГОВОРИТЬ?", пояснение "Обратная связь редакции" и адрес hello@rally1.example. Адрес использует демонстрационный домен .example и не выдаётся за реальный контакт WRC или спортивной команды.' align JUSTIFY (3) size [(None, None, None)]
+126 RallyReportBody 'Под адресом прямо указано, что это концептуальный контакт учебного проекта. На Desktop адрес выделен размером 32 px, а на Mobile уменьшен до 22 px, чтобы поместиться в пределах узкого контейнера.' align JUSTIFY (3) size [(None, None, None)]
+127 RallyReportBody 'Внутри секции используется вертикальный Auto Layout. Отступы привязаны к общей системе: 64 px для Desktop, 40 px для Tablet и 24 px для Mobile. Контактный блок согласован с геометрией соседних разделов.' align JUSTIFY (3) size [(None, None, None)]
+128 Normal '' align CENTER (1) size [(None, None, None)]
+129 Название объекта1 'Рисунок  - Контактная секция с демонстрационным адресом' align CENTER (1) size [(None, None, None), (None, None, None)]
+130 RallyReportBody 'Последним смысловым элементом страницы стал блок "08 Footer". В нём повторён логотип RALLY1., чтобы сохранить узнаваемость сайта после просмотра всех разделов. Под логотипом перечислены дополнительные пункты "Машины", "Покрытия" и "Смотреть".' align JUSTIFY (3) size [(None, None, None)]
+131 RallyReportBody 'Отдельная строка содержит ссылки WRC, Rally.TV и YouTube. Для названий назначены соответствующие внешние адреса официальных ресурсов. Символ внешнего перехода визуально отличает их от внутренних названий разделов.' align JUSTIFY (3) size [(None, None, None)]
+132 RallyReportBody 'В нижней части добавлен копирайт и указание, что проект является учебным и неофициальным. Также перечислены источники изображений и отмечено, что товарные знаки принадлежат владельцам. Эти подписи не смешаны с основным содержанием и выполнены небольшим второстепенным шрифтом.' align JUSTIFY (3) size [(None, None, None)]
+133 RallyReportBody 'Подвал использует тот же тёмный фон, что шапка и первый экран. Вертикальная компоновка сохраняет читаемость и на широком, и на узком устройстве.' align JUSTIFY (3) size [(None, None, None)]
+134 Normal '' align CENTER (1) size [(None, None, None)]
+135 Название объекта1 'Рисунок  - Логотип, дополнительные разделы, внешние ссылки и служебная подпись' align CENTER (1) size [(None, None, None), (None, None, None)]
+136 RallyReportBody 'Планшетный фрейм имеет ширину 768 px и боковые поля 40 px. Рабочая ширина содержимого составляет 688 px. В шапке оставлены логотип, сокращённая навигация и кнопка перехода к трансляциям.' align JUSTIFY (3) size [(None, None, None)]
+137 RallyReportBody 'В отличие от Desktop, текст и фотография первого экрана расположены вертикально. Сначала идут рубрика сезона, крупный заголовок, описание и кнопка, затем - широкая фотография. Такая перестройка позволяет избежать узких боковых колонок на планшете.' align JUSTIFY (3) size [(None, None, None)]
+138 RallyReportBody 'Размер главного заголовка уменьшен до 56 px. Фотография занимает ширину контейнера, её высота составляет 360 px. Внизу сохранена подпись источника. Смысловой порядок элементов полностью соответствует настольной версии.' align JUSTIFY (3) size [(None, None, None)]
+139 RallyReportBody 'При сравнении Tablet и Mobile видно, что это две отдельные адаптации, а не уменьшенные изображения Desktop. Размеры текста, поля и высота фотографии настроены с учётом каждой ширины.' align JUSTIFY (3) size [(None, None, None)]
+140 Normal '' align CENTER (1) size [(None, None, None)]
+141 Название объекта1 'Рисунок  - Планшетный первый экран рядом с мобильной версией' align CENTER (1) size [(None, None, None), (None, None, None)]
+142 RallyReportBody 'На планшете блок технических показателей сохраняет три колонки. Короткие значения 1,6 л, 4WD и 5 позволяют оставить горизонтальное расположение без потери смысла. При этом боковые поля секции уменьшаются до 40 px.' align JUSTIFY (3) size [(None, None, None)]
+143 RallyReportBody 'Карточки автомобилей на Tablet перестроены в вертикальную колонку. Благодаря этому фотография и название модели получают достаточно места, а посетителю не приходится разбирать мелкие подписи в трёх узких карточках.' align JUSTIFY (3) size [(None, None, None)]
+144 RallyReportBody 'Карточки покрытий остаются в горизонтальном ряду, поскольку их структура значительно проще карточек автомобилей. Содержимое каждой карточки ограничено её шириной, текст переносится по словам. На изображении показано сохранение трёх смысловых колонок.' align JUSTIFY (3) size [(None, None, None)]
+145 RallyReportBody 'Для проверки сопоставлены границы фрейма, внутренние поля и расположение нижних секций. Ни один из смысловых блоков не убран из планшетной версии.' align JUSTIFY (3) size [(None, None, None)]
+146 Normal '' align CENTER (1) size [(None, None, None)]
+147 Название объекта1 'Рисунок  - Три колонки дорожных покрытий в версии Tablet' align CENTER (1) size [(None, None, None), (None, None, None)]
+148 RallyReportBody 'Мобильный фрейм создан шириной 375 px. Боковые отступы уменьшены до 24 px, поэтому полезная ширина содержимого равна 327 px. Полная настольная навигация на такой ширине занимала бы слишком много места.' align JUSTIFY (3) size [(None, None, None)]
+149 RallyReportBody 'Слева оставлен логотип RALLY1., справа - компактная красная кнопка "Меню". Для неё используется тот же компонент кнопки с изменённой подписью. Шапка остаётся узнаваемой и согласованной с остальными версиями.' align JUSTIFY (3) size [(None, None, None)]
+150 RallyReportBody 'Элементы выровнены по центру горизонтального Auto Layout. Высота шапки рассчитывается по содержимому и вертикальным отступам. На скриншоте виден выбранный фрейм шириной 375 px и автоматическая высота.' align JUSTIFY (3) size [(None, None, None)]
+151 RallyReportBody 'Представленный экран показывает закрытое состояние меню. В отчёте не заявляется наличие отдельного раскрывающегося списка, поскольку такой дополнительный экран не входил в итоговую реализацию.' align JUSTIFY (3) size [(None, None, None)]
+152 Normal '' align CENTER (1) size [(None, None, None)]
+153 Название объекта1 'Рисунок  - Компактная шапка смартфона' align CENTER (1) size [(None, None, None), (None, None, None)]
+154 RallyReportBody 'В Mobile все элементы Hero расположены в одном столбце. Главный заголовок уменьшен до 40 px, при этом сохранены жирное начертание, три строки и смысл исходной фразы. Текст не выходит за боковые поля фрейма.' align JUSTIFY (3) size [(None, None, None)]
+155 RallyReportBody 'Описание размещено под заголовком и переносится на несколько коротких строк. За ним следует кнопка "Узнать о классе". Затем добавлена фотография шириной 327 px и высотой 230 px. Посетитель сначала знакомится с сообщением сайта и действием, затем рассматривает автомобиль.' align JUSTIFY (3) size [(None, None, None)]
+156 RallyReportBody 'Под фотографией сохранена подпись с событием и источником. Она также переносится по ширине контейнера. Высота секции увеличивается автоматически, поэтому подпись не перекрывает следующий блок.' align JUSTIFY (3) size [(None, None, None)]
+157 RallyReportBody 'Проверка мобильной версии выполнена с отдельным приближением первого экрана. Заголовок, описание, кнопка, изображение и подпись остаются самостоятельными редактируемыми слоями.' align JUSTIFY (3) size [(None, None, None)]
+158 Normal '' align CENTER (1) size [(None, None, None)]
+159 Название объекта1 'Рисунок  - Последовательность элементов Hero на смартфоне' align CENTER (1) size [(None, None, None), (None, None, None)]
+160 RallyReportBody 'В разделе о классе заголовок уменьшен до 30 px. Описание размещено на всю полезную ширину контейнера и переносится в несколько строк. На тёмно-сером фоне сохраняется тот же контраст, что в других версиях.' align JUSTIFY (3) size [(None, None, None)]
+161 RallyReportBody 'Три карточки технических показателей перестроены из горизонтального ряда в вертикальную колонку. Значение остаётся первым элементом карточки, подпись - вторым. Порядок 1,6 л, 4WD и 5 сохранён.' align JUSTIFY (3) size [(None, None, None)]
+162 RallyReportBody 'Каждая карточка использует внутренние отступы 24 px. Между карточками оставлены интервалы, поэтому вертикальный список не сливается в один большой текстовый блок. Служебная подпись источника находится после последней карточки.' align JUSTIFY (3) size [(None, None, None)]
+163 RallyReportBody 'При изменении длины текста Auto Layout сдвигает следующие элементы вниз. За счёт этого не требуется вручную подбирать координату каждого следующего объекта.' align JUSTIFY (3) size [(None, None, None)]
+164 Normal '' align CENTER (1) size [(None, None, None)]
+165 Название объекта1 'Рисунок  - Вертикальная адаптация технических показателей' align CENTER (1) size [(None, None, None), (None, None, None)]
+166 RallyReportBody 'Карточки Toyota, Hyundai и Ford на смартфоне расположены последовательно сверху вниз. По сравнению с Desktop изменилось направление ряда, а не состав содержимого. Для каждой модели сохранены изображение, номер, название и подпись.' align JUSTIFY (3) size [(None, None, None)]
+167 RallyReportBody 'Полезная ширина мобильного контейнера составляет 327 px. Внутренние слои компонента растягиваются по этой ширине. После исправления режима растяжения выполнена повторная проверка границ изображения и блока описания.' align JUSTIFY (3) size [(None, None, None)]
+168 RallyReportBody 'На сравнительном скриншоте одновременно видны вертикальные карточки Tablet и Mobile. На планшете они шире, на смартфоне - уже, но порядок элементов и оформление одинаковы. Такая связь поддерживается мастер-компонентами.' align JUSTIFY (3) size [(None, None, None)]
+169 RallyReportBody 'Фотографии сохранились во всех экземплярах после замены изображения Hyundai. Это подтверждает, что страницы содержат реальные связанные компоненты, а не одну статичную картинку готового сайта.' align JUSTIFY (3) size [(None, None, None)]
+170 Normal '' align CENTER (1) size [(None, None, None)]
+171 Название объекта1 'Рисунок  - Сравнение карточек автомобилей на планшете и смартфоне' align CENTER (1) size [(None, None, None), (None, None, None)]
+172 RallyReportBody 'Для смартфона горизонтальный ряд гравия, асфальта и снега заменён вертикальным. Название секции занимает несколько строк, но не выходит за полезную ширину страницы.' align JUSTIFY (3) size [(None, None, None)]
+173 RallyReportBody 'В каждой карточке сохранены красный номер, белый заголовок и приглушённое описание. Номера 01, 02 и 03 помогают воспринимать карточки как одну последовательность. Различия дорожных условий переданы текстом без добавления лишних декоративных элементов.' align JUSTIFY (3) size [(None, None, None)]
+174 RallyReportBody 'Высота каждой карточки зависит от объёма текста. В вертикальном списке это не нарушает выравнивание, поскольку следующая карточка располагается после предыдущей с установленным промежутком.' align JUSTIFY (3) size [(None, None, None)]
+175 RallyReportBody 'Проверено, что последняя карточка не накладывается на следующий блок просмотра соревнований. Вся секция остаётся частью общей вертикальной структуры страницы.' align JUSTIFY (3) size [(None, None, None)]
+176 Normal '' align CENTER (1) size [(None, None, None)]
+177 Название объекта1 'Рисунок  - Гравий, асфальт и снег в одном столбце Mobile' align CENTER (1) size [(None, None, None), (None, None, None)]
+178 RallyReportBody 'Блок просмотра соревнований на смартфоне сохраняет рубрику, заголовок, пояснение и красную кнопку Rally.TV. Текстовая часть переносится по ширине 327 px. Дополнительные ресурсы размещены под кнопкой.' align JUSTIFY (3) size [(None, None, None)]
+179 RallyReportBody 'Контактная секция выделена красным фоном на всю ширину фрейма. Длинный заголовок разделён переносом, а адрес уменьшен до 22 px. Демонстрационный характер контакта указан непосредственно под ним.' align JUSTIFY (3) size [(None, None, None)]
+180 RallyReportBody 'В подвале остаются логотип, ссылки на разделы, внешние ресурсы и служебная информация. Мелкие подписи занимают несколько строк, поэтому Footer автоматически становится выше, чем на Desktop.' align JUSTIFY (3) size [(None, None, None)]
+181 RallyReportBody 'Сравнение нижних блоков показывает, что адаптация не сводится к удалению информации. Все обязательные элементы структуры сохранены: основная часть заканчивается контактом, после которого расположен подвал.' align JUSTIFY (3) size [(None, None, None)]
+182 Normal '' align CENTER (1) size [(None, None, None)]
+183 Название объекта1 'Рисунок  - Просмотр соревнований, контакты и подвал смартфона' align CENTER (1) size [(None, None, None), (None, None, None)]
+184 RallyReportBody 'В результате на странице "Практическая работа №2" созданы три самостоятельных макета Rally1. Во всех версиях имеются восемь одинаково названных верхнеуровневых секций от Header до Footer. Отдельно расположена область UI Kit со стилями и мастер-компонентами.' align JUSTIFY (3) size [(None, None, None)]
+185 RallyReportBody 'Контрольные размеры итоговых фреймов составили 1440 × 3544 px для Desktop, 768 × 4529 px для Tablet и 375 × 5165 px для Mobile. Разная высота является результатом переноса текста и изменения количества колонок. Проверка текстовых слоёв относительно горизонтальных границ главных фреймов не выявила выхода за их ширину.' align JUSTIFY (3) size [(None, None, None)]
+186 RallyReportBody 'Требования задания выполнены: разработан собственный визуальный стиль, присутствуют качественные тематические изображения, соблюдается структура одностраничного сайта, подготовлены три адаптации, применены Auto Layout, компоненты, экземпляры, сетки и локальные стили. Макеты остаются редактируемыми.' align JUSTIFY (3) size [(None, None, None)]
+187 RallyReportBody 'Вывод: в ходе лабораторной работы разработан авторский адаптивный дизайн одностраничного сайта о WRC Rally1. Первая практическая использована как ориентир для структуры, а содержание и оформление подготовлены для новой темы. В отчёте зафиксированы отдельные блоки, настройки и результаты проверки.' align JUSTIFY (3) size [(None, None, None)]
+188 Normal '' align CENTER (1) size [(None, None, None)]
+189 Название объекта1 'Рисунок  - Общий вид UI Kit и трёх итоговых макетов' align CENTER (1) size [(None, None, None), (None, None, None)]
+190 RallyReportBody '' align JUSTIFY (3) size []
+TABLE [['МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ'], ['федеральное государственное бюджетное образовательное учреждение высшего образования "Российский экономический университет имени Г.В. Плеханова"\nМосковский приборостроительный техникум\n\n']]
+word/footer1.xml <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:ftr xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14"><w:p w14:paraId="3F9AB332" w14:textId="77777777" w:rsidR="00596E1D" w:rsidRDefault="006D0E2C"><w:pPr><w:pBdr><w:top w:val="nil"/><w:left w:val="nil"/><w:bottom w:val="nil"/><w:right w:val="nil"/><w:between w:val="nil"/></w:pBdr><w:tabs><w:tab w:val="center" w:pos="4677"/><w:tab w:val="right" w:pos="9355"/></w:tabs><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:jc w:val="center"/><w:rPr><w:color w:val="000000"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:color w:val="000000"/></w:rPr><w:instrText>PAGE</w:instrText></w:r><w:r><w:rPr><w:color w:val="000000"/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r w:rsidR="00BB43BB"><w:rPr><w:noProof/><w:color w:val="000000"/></w:rPr><w:t>1</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/></w:rPr><w:fldChar w:fldCharType="end"/></w:r></w:p><w:p w14:paraId="2CD9509E" w14:textId="77777777" w:rsidR="00596E1D" w:rsidRDefault="00596E1D"><w:pPr><w:pBdr><w:top w:val="nil"/><w:left w:val="nil"/><w:bottom w:val="nil"/><w:right w:val="nil"/><w:between w:val="nil"/></w:pBdr><w:tabs><w:tab w:val="center" w:pos="4677"/><w:tab w:val="right" w:pos="9355"/></w:tabs><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:color w:val="000000"/></w:rPr></w:pPr></w:p></w:ftr>
+STYLE Normal <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:default="1" w:styleId="a">
+  <w:name w:val="Normal"/>
+  <w:qFormat/>
+</w:style>
+
+STYLE Heading 1 <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="1">
+  <w:name w:val="heading 1"/>
+  <w:basedOn w:val="a"/>
+  <w:next w:val="a"/>
+  <w:uiPriority w:val="9"/>
+  <w:qFormat/>
+  <w:pPr>
+    <w:keepNext/>
+    <w:keepLines/>
+    <w:spacing w:before="480" w:after="120"/>
+    <w:outlineLvl w:val="0"/>
+  </w:pPr>
+  <w:rPr>
+    <w:b/>
+    <w:sz w:val="48"/>
+    <w:szCs w:val="48"/>
+  </w:rPr>
+</w:style>
+
+STYLE Heading 2 <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="2">
+  <w:name w:val="heading 2"/>
+  <w:basedOn w:val="a"/>
+  <w:next w:val="a"/>
+  <w:uiPriority w:val="9"/>
+  <w:semiHidden/>
+  <w:unhideWhenUsed/>
+  <w:qFormat/>
+  <w:pPr>
+    <w:keepNext/>
+    <w:keepLines/>
+    <w:spacing w:before="360" w:after="80"/>
+    <w:outlineLvl w:val="1"/>
+  </w:pPr>
+  <w:rPr>
+    <w:b/>
+    <w:sz w:val="36"/>
+    <w:szCs w:val="36"/>
+  </w:rPr>
+</w:style>
+
+STYLE Caption ABSENT
+STYLE Title <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="a3">
+  <w:name w:val="Title"/>
+  <w:basedOn w:val="a"/>
+  <w:next w:val="a"/>
+  <w:uiPriority w:val="10"/>
+  <w:qFormat/>
+  <w:pPr>
+    <w:keepNext/>
+    <w:keepLines/>
+    <w:spacing w:before="480" w:after="120"/>
+  </w:pPr>
+  <w:rPr>
+    <w:b/>
+    <w:sz w:val="72"/>
+    <w:szCs w:val="72"/>
+  </w:rPr>
+</w:style>
+
